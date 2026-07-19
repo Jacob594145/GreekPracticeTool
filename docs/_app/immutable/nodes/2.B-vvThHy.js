@@ -1,0 +1,1 @@
+import{$ as e,I as t,S as n,b as r,g as i}from"../chunks/c_0n_IAI.js";import"../chunks/xihTtKlq.js";var a=n(`<div style="display: flex"><div style="width: 1200px"><!></div></div>`);function o(n,o){var s=a(),c=t(s);i(t(c),()=>o.children),e(c),e(s),r(n,s)}export{o as component};
